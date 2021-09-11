@@ -1,7 +1,7 @@
 # Python_BankingSector_RiskAnalysis
 This case study aims to identify patterns which indicate if a client has difficulty paying their installments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
 
-Python Notebook Flow:
+# Python Notebook Flow:
 • Import required libraries such as pandas, numpy, matplotlib and seaborn
 • Load application data and previous application data
 • Verify application data columns for NULL values in columns
@@ -10,7 +10,7 @@ Python Notebook Flow:
 • Plot various graphs for different columns
 • Plot co-relation for different columns
 
-Plot graphs for current application…
+# Plot graphs for current application:
 • % of defaulters Vs regular payer
 • Age wise breakup of defaulters
 • Loan type wise breakup in terms of defaulters and regular payer
@@ -20,7 +20,7 @@ Plot graphs for current application…
 • Income wise breakup in terms of defaulters and regular payer
 • Housing wise breakup in terms of defaulters and regular payer
 
-Plot graphs for previous application…
+# Plot graphs for previous application:
 • Loan type for previous loan applications
 • Approval status for previous loan applications
 • Rejection reason for previous loan applications
